@@ -1,3 +1,3 @@
 # DemoDay
 
-<img src"folder.png">
+<img align="center" src="folder.png">
